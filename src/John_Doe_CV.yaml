@@ -1,9 +1,9 @@
 cv:
-  nome: Rodrigo Alexander de Andrade Pierini
-  localização: Sao Paulo/Brazil
+  name: Rodrigo Alexander de Andrade Pierini
+  location: Sao Paulo/Brazil
   email: rodrix10@gmail.com
-  Telefone: tel:+55(19)98805-5674
-  Redes_sociais:
+  phone: tel:+55(19)98805-5674
+  social_networks:
     - network: LinkedIn
       username: rodrigo-alexander-de-andrade-pierini-76462831
     - network: GitHub

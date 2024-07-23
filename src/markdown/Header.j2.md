@@ -30,13 +30,13 @@ Picture this:
 # <<cv.name>>'s CV
 
 ((* if cv.phone *))
-- Phone: <<cv.phone|replace("tel:", "")|replace("-"," ")>>
+- Telefone: <<cv.phone|replace("tel:", "")|replace("-"," ")>>
 ((* endif *))
 ((* if cv.email *))
 - Email: [<<cv.email>>](mailto:<<cv.email>>)
 ((* endif *))
 ((* if cv.location *))
-- Location: <<cv.location>>
+- Localização: <<cv.location>>
 ((* endif *))
 ((* if cv.website *))
 - Website: [<<cv.website|replace("https://","")|replace("/","")>>](<<cv.website>>)
