@@ -10,33 +10,78 @@ cv:
       username: RPierini
   sections:
     Sumário:
-      - Formação na área de Segurança da Informação com foco em administração de servidores de rede.
-      - Experiência profissional na área de informática em suporte,
-        desenvolvimento, infraestrutura e planejamento e gestão.
-      - Interesses em redes definidas por software (SDN),
+      - bullet: Formação na área de Segurança da Informação
+        com foco em administração de servidores de rede. Mestrado em andamento.
+      - bullet: Experiência profissional na área de tecnologia da informação em suporte,
+        manutenção, desenvolvimento, infraestrutura e gestão.
+      - bullet: Interesses em redes definidas por software (SDN),
         segurança da informação (normas, processos e ferramentas),
         criptografia e gestão de identidades.
-    quick_guide:
-      - bullet: Each section title is arbitrary, and each section
-          contains a list of entries.
-      - bullet: 'There are 7 unique entry types: *BulletEntry*,
-          *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*,
-          *PublicationEntry*, and *OneLineEntry*.'
-      - bullet: Select a section title, pick an entry type, and
-          start writing your section!
-      - bullet: '[Here](https://docs.rendercv.com/user_guide/),
-          you can find a comprehensive user guide for RenderCV.'
+      - bullet: Objetivo pessoal de lecionar na área de tecnologia da informação
     education:
-      - institution: University of Pennsylvania
-        area: Computer Science
-        degree: BS
-        start_date: 2000-09
-        end_date: 2005-05
+      - institution: Escola Técnica Polivalente de Americana - ETEC
+        area: Informática
+        degree: Técnico
+        start_date: 2009-07
+        end_date: 2010-12
         highlights:
-          - 'GPA: 3.9/4.0 ([Transcript](https://example.com))'
-          - '**Coursework:** Computer Architecture, Artificial
-            Intelligence, Comparison of Learning Algorithms, Computational
-            Theory'
+          - "TCC: Automação de controle de estoque baseado em Delphi"
+          - "Grade curricular: "
+          - bullet: Pacote Office (Word, Excel, Powerpoint, Access)
+          - bullet: Sistemas operacionais Unix/Linux
+          - bullet: Manutenção de computadores
+          - bullet: Desenvolvimento procedural em Pascal e Delphi
+          - bullet: Programação Orientada a Objetos com Java
+          - bullet: Design de páginas web com HTML/CSS
+          - bullet: Programação Web Procedural com PHP
+          - bullet: Modelagem de sistemas com UML
+          - bullet: Gestão de banco de dados Access, Firebird e MySQL
+      - institution: Faculdade de Tecnologia de Americana - FATEC-AM
+        area: Segurança da Informação
+        degree: Tecnólogo
+        start_date: 2011-01
+        end_date: 2013-12
+        highlights:
+          - "TCC: Engenharia Social"
+          - "Grade curricular: "
+          - bullet: Arquitetura de computadores
+          - bullet: Infraestrutura e projeto de redes de computadores
+          - bullet: Protocolos e serviços de redes
+          - bullet: Gestão e desempenho de redes
+          - bullet: Gestão de servidores Unix e Windows
+          - bullet: Programação de scripts em Bash
+          - bullet: Controle de acesso e autenticação
+          - bullet: Política de segurança
+          - bullet: Normas de segurança (ISO 27001)
+          - bullet: Auditoria e forense computacional
+      - institution: Escola Superior Aberta do Brasil - ESAB
+        area: Redes de computadores
+        degree: Especialista
+        start_date: 2016-01
+        end_date: 2017-03
+        highlights:
+          - "TCC: IPTRID: Protótipo de identificador de regras IPTables em Shell Script"
+          - "Grade curricular: "
+          - bullet: Metodologia de pesquisa científica
+          - bullet: Arquitetura de computadores
+          - bullet: Infraestrutura e projeto de redes de computadores
+          - bullet: Protocolos e serviços de redes
+          - bullet: Gestão de servidores Unix e Windows
+          - bullet: Segurança da Informação
+          - bullet: Didática e metodologia do ensino superior
+      - institution: Universidade Estadual de Campinas - FEEC/UNICAMP
+        area: Engenharia da Computação
+        degree: Especialista
+        start_date: 2019-07
+        end_date: Ongoing
+        highlights:
+          - "Dissertação: Design, implementação e avaliação de atestação
+            remota distribuída em plano de dados programável"
+          - "Disciplinas: "
+          - bullet: "Segurança em Comunicação de Dados: Criptografia"
+          - bullet: "Tópicos em Engenharia de Computação VII: Redes definidas por Software (SDN)"
+          - bullet: "Segurança de Redes de Computadores: Redes e servidores"
+          - bullet: "Tópicos em Sistemas Operacionais: Software livre e inovação aberta"
     experience:
       - company: Apple
         position: Software Engineer
