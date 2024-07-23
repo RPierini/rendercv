@@ -51,8 +51,8 @@ cv:
       - institution: Escola Superior Aberta do Brasil - ESAB
         area: Redes de computadores
         degree: Especialista
-        start_date: 2016-01
-        end_date: 2017-03
+        start_date: 2016-10
+        end_date: 2017-10
         highlights:
           - "TCC: IPTRID: Protótipo de identificador de regras IPTables em Shell Script"
           - Metodologia de pesquisa científica
@@ -66,7 +66,7 @@ cv:
         area: Engenharia da Computação
         degree: Especialista
         start_date: 2019-07
-        end_date: Ongoing
+        end_date: present
         highlights:
           - "Dissertação: Design, implementação e avaliação de atestação
             remota distribuída em plano de dados programável"
