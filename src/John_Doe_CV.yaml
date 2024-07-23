@@ -22,16 +22,15 @@ cv:
         end_date: 2010-12
         highlights:
           - "TCC: Automação de controle de estoque baseado em Delphi"
-          - "Grade curricular: "
-          - bullet: Pacote Office (Word, Excel, Powerpoint, Access)
-          - bullet: Sistemas operacionais Unix/Linux
-          - bullet: Manutenção de computadores
-          - bullet: Desenvolvimento procedural em Pascal e Delphi
-          - bullet: Programação Orientada a Objetos com Java
-          - bullet: Design de páginas web com HTML/CSS
-          - bullet: Programação Web Procedural com PHP
-          - bullet: Modelagem de sistemas com UML
-          - bullet: Gestão de banco de dados Access, Firebird e MySQL
+          - Pacote Office (Word, Excel, Powerpoint, Access)
+          - Sistemas operacionais Unix/Linux
+          - Manutenção de computadores
+          - Desenvolvimento procedural em Pascal e Delphi
+          - Programação Orientada a Objetos com Java
+          - Design de páginas web com HTML/CSS
+          - Programação Web Procedural com PHP
+          - Modelagem de sistemas com UML
+          - Gestão de banco de dados Access, Firebird e MySQL
       - institution: Faculdade de Tecnologia de Americana - FATEC-AM
         area: Segurança da Informação
         degree: Tecnólogo
@@ -39,17 +38,16 @@ cv:
         end_date: 2013-12
         highlights:
           - "TCC: Engenharia Social"
-          - "Grade curricular: "
-          - bullet: Arquitetura de computadores
-          - bullet: Infraestrutura e projeto de redes de computadores
-          - bullet: Protocolos e serviços de redes
-          - bullet: Gestão e desempenho de redes
-          - bullet: Gestão de servidores Unix e Windows
-          - bullet: Programação de scripts em Bash
-          - bullet: Controle de acesso e autenticação
-          - bullet: Política de segurança
-          - bullet: Normas de segurança (ISO 27001)
-          - bullet: Auditoria e forense computacional
+          - Arquitetura de computadores
+          - Infraestrutura e projeto de redes de computadores
+          - Protocolos e serviços de redes
+          - Gestão e desempenho de redes
+          - Gestão de servidores Unix e Windows
+          - Programação de scripts em Bash
+          - Controle de acesso e autenticação
+          - Política de segurança
+          - Normas de segurança (ISO 27001)
+          - Auditoria e forense computacional
       - institution: Escola Superior Aberta do Brasil - ESAB
         area: Redes de computadores
         degree: Especialista
@@ -57,14 +55,13 @@ cv:
         end_date: 2017-03
         highlights:
           - "TCC: IPTRID: Protótipo de identificador de regras IPTables em Shell Script"
-          - "Grade curricular: "
-          - bullet: Metodologia de pesquisa científica
-          - bullet: Arquitetura de computadores
-          - bullet: Infraestrutura e projeto de redes de computadores
-          - bullet: Protocolos e serviços de redes
-          - bullet: Gestão de servidores Unix e Windows
-          - bullet: Segurança da Informação
-          - bullet: Didática e metodologia do ensino superior
+          - Metodologia de pesquisa científica
+          - Arquitetura de computadores
+          - Infraestrutura e projeto de redes de computadores
+          - Protocolos e serviços de redes
+          - Gestão de servidores Unix e Windows
+          - Segurança da Informação
+          - Didática e metodologia do ensino superior
       - institution: Universidade Estadual de Campinas - FEEC/UNICAMP
         area: Engenharia da Computação
         degree: Especialista
@@ -73,11 +70,10 @@ cv:
         highlights:
           - "Dissertação: Design, implementação e avaliação de atestação
             remota distribuída em plano de dados programável"
-          - "Disciplinas: "
-          - bullet: "Segurança em Comunicação de Dados: Criptografia"
-          - bullet: "Tópicos em Engenharia de Computação VII: Redes definidas por Software (SDN)"
-          - bullet: "Segurança de Redes de Computadores: Redes e servidores"
-          - bullet: "Tópicos em Sistemas Operacionais: Software livre e inovação aberta"
+          - "Segurança em Comunicação de Dados: Criptografia"
+          - "Tópicos em Engenharia de Computação VII: Redes definidas por Software (SDN)"
+          - "Segurança de Redes de Computadores: Redes e servidores"
+          - "Tópicos em Sistemas Operacionais: Software livre e inovação aberta"
     experience:
       - company: Apple
         position: Software Engineer
