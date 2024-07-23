@@ -1,14 +1,13 @@
 cv:
-  name: John Doe
-  location: Your Location
-  email: youremail@yourdomain.com
-  phone: tel:+90-541-999-99-99
-  website: https://yourwebsite.com/
+  name: Rodrigo Alexander de Andrade Pierini
+  location: Sao Paulo/Brazil
+  email: rodrix10@gmail.com
+  phone: tel:+55(19)98805-5674
   social_networks:
     - network: LinkedIn
-      username: yourusername
+      username: rodrigo-alexander-de-andrade-pierini-76462831
     - network: GitHub
-      username: yourusername
+      username: RPierini
   sections:
     welcome_to_RenderCV!:
       - '[RenderCV](https://github.com/sinaatalay/rendercv) is
