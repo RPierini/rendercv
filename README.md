@@ -29,18 +29,20 @@ Picture this:
 <!-- Remove above in src/markdown/Header.j2.md not in README.md -->
 # Rodrigo Alexander de Andrade Pierini's CV
 
-- Phone: +55 19 98805 5674
+- Telefone: +55 19 98805 5674
 - Email: [rodrix10@gmail.com](mailto:rodrix10@gmail.com)
-- Location: Sao Paulo/Brazil
+- Localização: Sao Paulo/Brazil
 - LinkedIn: [rodrigo-alexander-de-andrade-pierini-76462831](https://linkedin.com/in/rodrigo-alexander-de-andrade-pierini-76462831)
 - GitHub: [RPierini](https://github.com/RPierini)
 
 
-# Welcome to RenderCV!
+# Sumário
 
-[RenderCV](https://github.com/sinaatalay/rendercv) is a LaTeX-based CV/resume framework. It allows you to create a high-quality CV or resume as a PDF file from a YAML file, with **full Markdown syntax support** and **complete control over the LaTeX code**.
+Formação na área de Segurança da Informação com foco em administração de servidores de rede.
 
-The boilerplate content is taken from [here](https://github.com/dnl-blkv/mcdowell-cv), where a *clean and tidy CV* pattern is proposed by **[Gayle Laakmann McDowell](https://www.gayle.com/)**.
+Experiência profissional na área de informática em suporte, desenvolvimento, infraestrutura e planejamento e gestão.
+
+Interesses em redes definidas por software (SDN), segurança da informação (normas, processos e ferramentas), criptografia e gestão de identidades.
 
 # Quick Guide
 
