@@ -38,25 +38,61 @@ Picture this:
 
 # Sumário
 
-Formação na área de Segurança da Informação com foco em administração de servidores de rede.
-
-Experiência profissional na área de informática em suporte, desenvolvimento, infraestrutura e planejamento e gestão.
-
-Interesses em redes definidas por software (SDN), segurança da informação (normas, processos e ferramentas), criptografia e gestão de identidades.
-
-# Quick Guide
-
-- Each section title is arbitrary, and each section contains a list of entries.
-- There are 7 unique entry types: *BulletEntry*, *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*, *PublicationEntry*, and *OneLineEntry*.
-- Select a section title, pick an entry type, and start writing your section!
-- [Here](https://docs.rendercv.com/user_guide/), you can find a comprehensive user guide for RenderCV.
+- Formação na área de Segurança da Informação com foco em administração de servidores de rede. Mestrado em andamento.
+- Experiência profissional na área de tecnologia da informação em suporte, manutenção, desenvolvimento, infraestrutura e gestão.
+- Interesses em redes definidas por software (SDN), segurança da informação (normas, processos e ferramentas), criptografia e gestão de identidades.
+- Objetivo pessoal de lecionar na área de tecnologia da informação
 # Education
 
-## University of Pennsylvania, BS in Computer Science
+## Escola Técnica Polivalente de Americana - ETEC, Técnico in Informática
 
-- Sept 2000 – May 2005
-- GPA: 3.9/4.0 ([Transcript](https://example.com))
-- **Coursework:** Computer Architecture, Artificial Intelligence, Comparison of Learning Algorithms, Computational Theory
+- July 2009 – Dec 2010
+- TCC: Automação de controle de estoque baseado em Delphi
+- Pacote Office (Word, Excel, Powerpoint, Access)
+- Sistemas operacionais Unix/Linux
+- Manutenção de computadores
+- Desenvolvimento procedural em Pascal e Delphi
+- Programação Orientada a Objetos com Java
+- Design de páginas web com HTML/CSS
+- Programação Web Procedural com PHP
+- Modelagem de sistemas com UML
+- Gestão de banco de dados Access, Firebird e MySQL
+
+## Faculdade de Tecnologia de Americana - FATEC-AM, Tecnólogo in Segurança da Informação
+
+- Jan 2011 – Dec 2013
+- TCC: Engenharia Social
+- Arquitetura de computadores
+- Infraestrutura e projeto de redes de computadores
+- Protocolos e serviços de redes
+- Gestão e desempenho de redes
+- Gestão de servidores Unix e Windows
+- Programação de scripts em Bash
+- Controle de acesso e autenticação
+- Política de segurança
+- Normas de segurança (ISO 27001)
+- Auditoria e forense computacional
+
+## Escola Superior Aberta do Brasil - ESAB, Especialista in Redes de computadores
+
+- Oct 2016 – Oct 2017
+- TCC: IPTRID: Protótipo de identificador de regras IPTables em Shell Script
+- Metodologia de pesquisa científica
+- Arquitetura de computadores
+- Infraestrutura e projeto de redes de computadores
+- Protocolos e serviços de redes
+- Gestão de servidores Unix e Windows
+- Segurança da Informação
+- Didática e metodologia do ensino superior
+
+## Universidade Estadual de Campinas - FEEC/UNICAMP, Especialista in Engenharia da Computação
+
+- July 2019 – present
+- Dissertação: Design, implementação e avaliação de atestação remota distribuída em plano de dados programável
+- Segurança em Comunicação de Dados: Criptografia
+- Tópicos em Engenharia de Computação VII: Redes definidas por Software (SDN)
+- Segurança de Redes de Computadores: Redes e servidores
+- Tópicos em Sistemas Operacionais: Software livre e inovação aberta
 
 # Experience
 
